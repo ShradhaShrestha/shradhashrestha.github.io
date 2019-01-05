@@ -6,8 +6,8 @@ I am a second-year master’s student in Environmental Science at Rochester Inst
 Connect with me at [Twitter](https://twitter.com/ShradhaStha57) [LinkedIn](https://www.linkedin.com/in/shradha-shrestha57/)
 
 
-![alt text][logo]
+[//]: #![alt text][logo]
 
-[logo]: https://github.com/ShradhaShrestha/shradhashrestha.github.io/blob/master/580b57fcd9996e24bc43c53e.png "Twitter"
+[//]: #[logo]: https://github.com/ShradhaShrestha/shradhashrestha.github.io/blob/master/580b57fcd9996e24bc43c53e.png "Twitter"
 
-![logo](https://github.com/ShradhaShrestha/shradhashrestha.github.io/blob/master/580b57fcd9996e24bc43c53e.png =100x20)
+[//]: #![logo](https://github.com/ShradhaShrestha/shradhashrestha.github.io/blob/master/580b57fcd9996e24bc43c53e.png =100x20)
