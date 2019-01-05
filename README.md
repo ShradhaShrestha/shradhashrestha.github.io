@@ -8,4 +8,6 @@ Connect with me at [Twitter](https://twitter.com/ShradhaStha57) [LinkedIn](https
 
 ![alt text][logo]
 
-[logo]: https://github.com/ShradhaShrestha/shradhashrestha.github.io/blob/master/580b57fcd9996e24bc43c53e.png = 100x20 "Twitter"
+[logo]: https://github.com/ShradhaShrestha/shradhashrestha.github.io/blob/master/580b57fcd9996e24bc43c53e.png "Twitter"
+
+![](https://github.com/ShradhaShrestha/shradhashrestha.github.io/blob/master/580b57fcd9996e24bc43c53e.png =100x20)
